@@ -31,15 +31,15 @@
 </div>
 
 ## About Me
-- 🔭 I’m currently working on **building exciting web applications**
+- 🔭 I’m currently working on **Accounting apps and Blog Website**
 - 🌱 I’m currently learning **Next.js** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[bayufebriyonoputra@gmail.com](mailto:bayufebriyonoputra@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
-- ⚡ Fun fact: **I love playing game && watching movie** to keep my imagination fueled and my coding vibes strong.
+- 📫 How to reach me: Shoot me an email at **[bayufebriyonoputra@gmail.com](mailto:bayufebriyonoputra@gmail.com)**, or WhatsApp **+6283849174019** and let's connect.
 
 
-🎓 Currently studying in SMKN 2 Bangkalan East Java, Indonesian.
+
+🎓 Currently studying in Politeknik Elektronika Negeri Surabaya East Java, Indonesian.
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=bayufebriyonoputra&style=for-the-badge&color=blue" alt=""/>
