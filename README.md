@@ -40,6 +40,7 @@
 
 
 🎓 Currently studying in Politeknik Elektronika Negeri Surabaya East Java, Indonesian.
+👨‍💻 Im founder on small software house called <a href="https://enryptdev.com" target="_blank"><strong>EncryptDev</strong</a>.
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=bayufebriyonoputra&style=for-the-badge&color=blue" alt=""/>
@@ -74,7 +75,7 @@
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/mrifkii.as/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href=https://www.instagram.com/encryptdevdigital/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ## Support Me
