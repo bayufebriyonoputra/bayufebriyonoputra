@@ -39,8 +39,8 @@
 
 
 
-🎓 Currently studying in Politeknik Elektronika Negeri Surabaya East Java, Indonesian.
-👨‍💻 Im founder on small software house called <a href="https://enryptdev.com" target="_blank"><strong>EncryptDev</strong</a>.
+- 🎓 Currently studying in Politeknik Elektronika Negeri Surabaya East Java, Indonesian.
+- 👨‍💻 Im founder on small software house called <a href="https://enryptdev.com" target="_blank"><strong>EncryptDev</strong></a>.
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=bayufebriyonoputra&style=for-the-badge&color=blue" alt=""/>
