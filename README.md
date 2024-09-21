@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Laravel-tomato?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
-    <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Tailwind Css">
     <img src="https://img.shields.io/badge/scratch-orange?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch">
     <img src="https://img.shields.io/badge/figma-gray?style=for-the-badge&logo=figma&logoColor=red" alt="Figma">
   </p>
@@ -36,7 +36,6 @@
 - 📫 How to reach me: Shoot me an email at **[rifkiadi348@gmail.com](mailto:rifkiadi348@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
 - ⚡ Fun fact: **I love playing game && watching movie** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [Pemilihan Ketua Osis](https://github.com/bayufebriyonoputra/Pemilihan_Ketua_Osis)
 
 🎓 Currently studying in SMKN 2 Bangkalan East Java, Indonesian.
 
