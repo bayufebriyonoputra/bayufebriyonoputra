@@ -35,7 +35,7 @@
 - 🌱 I’m currently learning **Next.js** to add some magic to my coding spells.
 - 🤔 I’m looking for help with **competitive programming** because I want to level up my coding ninja skills.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[rifkiadi348@gmail.com](mailto:rifkiadi348@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
+- 📫 How to reach me: Shoot me an email at **[bayufebriyonoputra@gmail.com](mailto:bayufebriyonoputra@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
 - ⚡ Fun fact: **I love playing game && watching movie** to keep my imagination fueled and my coding vibes strong.
 
 
@@ -57,7 +57,6 @@
  <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Next%20js-gray?style=for-the-badge&logo=next.js" alt="Next.js">
- <img width="90" height="30" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
  <img width="90" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
  <img width="90" height="30" src="https://img.shields.io/badge/Laravel-tomato?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   </div>
