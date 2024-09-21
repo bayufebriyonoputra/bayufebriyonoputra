@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/rifkigg?tab=followers">
-    <img src="https://img.shields.io/github/followers/rifkigg?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
+  <a href="https://github.com/bayufebriyonoputra?tab=followers">
+    <img src="https://img.shields.io/github/followers/bayufebriyonoputra?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
   </a>
 </p>
 
@@ -36,18 +36,18 @@
 - 📫 How to reach me: Shoot me an email at **[rifkiadi348@gmail.com](mailto:rifkiadi348@gmail.com)**, or WhatsApp **+62877 5596 2888** and let's connect.
 - ⚡ Fun fact: **I love playing game && watching movie** to keep my imagination fueled and my coding vibes strong.
 
-🌐 Check out my latest website project: [Pemilihan Ketua Osis](https://github.com/rifkigg/Pemilihan_Ketua_Osis)
+🌐 Check out my latest website project: [Pemilihan Ketua Osis](https://github.com/bayufebriyonoputra/Pemilihan_Ketua_Osis)
 
 🎓 Currently studying in SMKN 2 Bangkalan East Java, Indonesian.
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifkigg&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=bayufebriyonoputra&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifkigg&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkigg&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bayufebriyonoputra&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayufebriyonoputra&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 
@@ -62,7 +62,7 @@
   </div>
   <br />
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifkigg&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayufebriyonoputra&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </p>
 
 ## Inspirational Quotes
@@ -83,20 +83,20 @@ If you enjoy my work, consider supporting me:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifkigg&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bayufebriyonoputra&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifkigg&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayufebriyonoputra&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifkigg/rifkigg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifkigg/rifkigg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rifkigg/rifkigg/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayufebriyonoputra/bayufebriyonoputra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayufebriyonoputra/bayufebriyonoputra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bayufebriyonoputra/bayufebriyonoputra/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
 
